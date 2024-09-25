@@ -11,10 +11,6 @@ I'm a software developer passionate about open source, AI and automation.
   
   <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Oldranda1414&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
   ![Github Trophies](https://github-trophies.vercel.app/?username=Oldranda1414&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=9&theme=gruvbox)
 
   <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Oldranda1414.Oldranda1414) -->
