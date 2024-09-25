@@ -60,7 +60,7 @@ I'm a software developer passionate about open source, AI and automation.
   <summary><h2>Typing Stats</h2></summary>
   
   <a href="https://monkeytype.com/profile/Oldranda1414">
-    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    <img src="https://raw.githubusercontent.com/Oldranda1414/Oldranda1414/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
   </a>
 
   <a href="https://data.typeracer.com/pit/profile?user=oldranda1414&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=oldranda1414" border="0" alt="TypeRacer.com scorecard for user oldranda1414"/></a>
