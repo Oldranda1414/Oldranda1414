@@ -26,7 +26,7 @@ I'm a software developer passionate about open source, AI and automation.
   ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/OS-Linux_Mint-brightgreen?logo=linux-mint&logoColor=white)
-  ![Nix](https://img.shields.io/badge/PM-NixOS-blue?logo=nixos&logoColor=white)
+  ![Nix](https://img.shields.io/badge/OS-NixOS-blue?logo=nixos&logoColor=white)
 
   ![Vim](https://img.shields.io/badge/Editor-Vim-brightgreen?logo=vim&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Editor-Neovim-green?logo=neovim&logoColor=white)
@@ -40,7 +40,7 @@ I'm a software developer passionate about open source, AI and automation.
 </details>
 
 <details>
-  <summary><h2>Coding Languages and Frameworks</h2></summary>
+  <summary><h2>Languages and Frameworks</h2></summary>
   
   ![C](https://img.shields.io/badge/Language-C-A8B400?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
