@@ -40,7 +40,7 @@ I'm a software developer passionate about open source, AI and automation.
 </details>
 
 <details>
-  <summary><h2>Coding Languages</h2></summary>
+  <summary><h2>Coding Languages and Frameworks</h2></summary>
   
   ![C](https://img.shields.io/badge/Language-C-A8B400?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
@@ -48,10 +48,12 @@ I'm a software developer passionate about open source, AI and automation.
   ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
   ![Scala](https://img.shields.io/badge/Language-Scala-DC322F?logo=scala&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/Language-MATLAB-EF8C00?logo=MATLAB&logoColor=white)
+  ![Nix](https://img.shields.io/badge/Language-Nix-5277C3?logo=nixos&logoColor=white)
 
   ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Framework-Vue-4FC08D?logo=vue.js&logoColor=white)
 
   ![LaTeX](https://img.shields.io/badge/Language-LaTeX-008080?logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Language-Markdown-000000?logo=markdown&logoColor=white)
