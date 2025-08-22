@@ -26,6 +26,7 @@ I'm a software developer passionate about open source, AI and automation.
   ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/OS-Linux_Mint-brightgreen?logo=linux-mint&logoColor=white)
+  ![Nix](https://img.shields.io/badge/PM-NixOS-blue?logo=nixos&logoColor=white)
 
   ![Vim](https://img.shields.io/badge/Editor-Vim-brightgreen?logo=vim&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Editor-Neovim-green?logo=neovim&logoColor=white)
@@ -34,6 +35,7 @@ I'm a software developer passionate about open source, AI and automation.
   ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/Repo-GitHub-black?logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/Repo-GitLab-orange?logo=gitlab&logoColor=white)
+  ![Nix](https://img.shields.io/badge/PM-Nix-blue?logo=nixos&logoColor=white)
 
 </details>
 
