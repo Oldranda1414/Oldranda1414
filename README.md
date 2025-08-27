@@ -7,7 +7,7 @@ I'm a software developer passionate about open source, AI and automation.
   <summary><h2>Coding Stats</h2></summary>
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=Oldranda1414&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
-  ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldranda1414&layout=compact&count_private=true&theme=gruvbox&langs_count=8)
+  ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldranda1414&layout=compact&count_private=true&theme=gruvbox&langs_count=8&size_weight=0.5&count_weight=0.5)
   
   <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
