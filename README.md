@@ -57,8 +57,6 @@ I'm a software developer passionate about open source, AI and automation.
 
 <details>
   <summary><h2>Unserious Stuff</h2></summary>
-  
-  ### Dear future employers, do not continue reading. Thank you
 
   Things I think I am good at:
   - Comedy
